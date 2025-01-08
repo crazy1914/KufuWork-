@@ -1,0 +1,26 @@
+.settings-page {
+    padding: 2rem;
+  }
+  
+  .admin-settings, .company-settings {
+    margin-bottom: 2rem;
+  }
+  
+  input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
